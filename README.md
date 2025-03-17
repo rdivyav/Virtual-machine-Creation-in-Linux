@@ -11,7 +11,34 @@
  ### Steps 4:Verify the installation and start using Kali Linux in the virtual environment.
 
 ## COMMANDS
+1) ls Command:
+The ls command is used to display a list of content of a directory.
+Syntax: ls
 
+2) pwd Command:
+The pwd command is used to display the location of the current working directory.
+Syntax: pwd
+
+3) mkdir Command:
+The mkdir command is used to create a new directory under any directory.
+Syntax: mkdir
+
+4) rmdir Command:
+The rmdir command is used to delete a directory.
+Syntax: rmdir
+
+5) cd Command:
+The cd command is used to change the current directory.
+Syntax: cd
+
+6) cat Command:
+The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
+Syntax: cat [OPTION]... [FILE]..
+
+
+![image](https://github.com/user-attachments/assets/2c243032-eae2-409e-bdc8-160143c3ffb7)
+
+![image](https://github.com/user-attachments/assets/6e99f2e4-b4b3-4e20-b2c0-bb38361d58b6)
 
 ## OUTPUT
 ### REG NUMBER:212223100005
@@ -26,7 +53,7 @@
 ![VirtualBox_KALI_12_03_2025_06_13_01](https://github.com/user-attachments/assets/f58613c4-f5fe-4d01-9590-0a85ec7c4e61)
  
 ## RESULT
- 
+ Thus, this experiment helped in understanding the installation process of Oracle Virtualbox and configuring Kali Linux OS.
 
   
 
