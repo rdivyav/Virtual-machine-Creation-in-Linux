@@ -51,6 +51,9 @@ Syntax: cat [OPTION]... [FILE]..
 ![VirtualBox_KALI_12_03_2025_06_12_10](https://github.com/user-attachments/assets/63d81da8-9491-4455-87d6-72f4182799cf)
 
 ![VirtualBox_KALI_12_03_2025_06_13_01](https://github.com/user-attachments/assets/f58613c4-f5fe-4d01-9590-0a85ec7c4e61)
+
+![sum of two nums](https://github.com/user-attachments/assets/ecc7611d-716e-45bf-b370-ab524b75e115)
+
  
 ## RESULT
  Thus, this experiment helped in understanding the installation process of Oracle Virtualbox and configuring Kali Linux OS.
